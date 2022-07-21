@@ -1,5 +1,5 @@
 # syllabus-template
-An HTML/CSS template for creating a university course syllabus, built with Bootstrap. 
+An HTML/CSS template for creating a university course syllabus mini-site, built with Bootstrap. 
 Requires some knowledge of HTML.
 
 ### Created by Paul Haimes

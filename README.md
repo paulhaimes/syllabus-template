@@ -1,5 +1,5 @@
 # syllabus-template
-An HTML/CSS template for creating a university course syllabus mini-site, built with Bootstrap. Uses Google Fonts for type.
+An HTML/CSS template for creating a university course syllabus mini-site, built with Bootstrap. Uses Google Fonts for type rendering.
 ####
 Requires some knowledge of HTML.
 

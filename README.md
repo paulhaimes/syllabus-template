@@ -1,5 +1,5 @@
 # syllabus-template
-An HTML/CSS template for creating a university course syllabus mini-site, built with Bootstrap. Uses Google Fonts for type rendering.
+An HTML/CSS template for creating a university course syllabus mini-site, built with Bootstrap. Uses Google Fonts for type rendering. Should work fine on mobile as well as desktop.
 ####
 Requires some knowledge of HTML. To change the colour of the top nav bar, see _/css/navbar-top.css_.
 
